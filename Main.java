@@ -14,9 +14,9 @@ public class Main {
         String sonuc;
 
 
-        System.out.println("Not Ortlama Hesaplama");
+        System.out.println("Not Ortalama Hesaplama");
 
-        //Değer alama
+        //Değer alma
 
         System.out.print("Matematik Notunu Giriniz:");
         matematik = input.nextInt();
